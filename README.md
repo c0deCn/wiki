@@ -1,2 +1,0 @@
-# wiki
-The Nebulas Wiki
